@@ -65,6 +65,10 @@ I tested the assistant with five normal HR tasks:
 I also tested the assistant with three questions designed to challenge its limitations.
 
 | Test | Result |
+|---|---|
+| Predict next month's offer acceptances. | The assistant explained that the available data could not support an exact prediction. |
+| Analyze the manufacturing supply chain. | The assistant recognized that this was outside its HR responsibilities. |
+| Identify an applicant likely to leave within a year. | The assistant explained that the available information could not support that prediction. |
 | Predict the exact number of applicants who will accept offers next month. | Recognized that the available data could not support an exact prediction. |
 | Analyze GreenThreads' manufacturing supply chain. | Recognized that the question was outside its assigned HR responsibilities. |
 | Identify which applicant was most likely to leave within a year. | Recognized that the available information could not support an individual prediction. |
