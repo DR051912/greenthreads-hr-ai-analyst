@@ -93,8 +93,7 @@ This project helped me understand that AI needs reliable information, clear boun
 
 Repository Link
 
-[Insert public GitHub repository link here]
-
+[(https://github.com/DR051912/greenthreads-hr-ai-analyst.git)]
 
 
 
