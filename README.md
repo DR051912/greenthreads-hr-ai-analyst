@@ -90,3 +90,15 @@ GreenThreads remains responsible for decisions made using AI recommendations. Th
 The assistant is limited by the information available in its uploaded files. Missing records, conflicting numbers, and limited historical data can affect its analysis.
 
 This project helped me understand that AI needs reliable information, clear boundaries, and human oversight to be useful in a workplace.
+
+Repository Link
+
+[Insert public GitHub repository link here]
+
+
+
+
+
+
+
+
