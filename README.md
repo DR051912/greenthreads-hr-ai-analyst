@@ -79,13 +79,13 @@ The assistant was instructed to use uploaded information, never invent missing n
 
 After testing, the assistant handled the challenges appropriately. No additional rules were needed.
 
-8. Governance and Human Oversight
+## 8. Governance and Human Oversight
 
 Authorized HR employees and management should review AI-generated findings before using them for hiring, compensation, or staffing decisions. Access should be limited to employees who need the information for their jobs.
 
 GreenThreads remains responsible for decisions made using AI recommendations. The assistant supports HR employees but does not replace their judgment.
 
-9. Limitations and Conclusion
+## 9. Limitations and Conclusion
 
 The assistant is limited by the information available in its uploaded files. Missing records, conflicting numbers, and limited historical data can affect its analysis.
 
